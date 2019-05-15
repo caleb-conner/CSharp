@@ -1,0 +1,11 @@
+/home/conner/git/CSharp/hello-world/input/bin/Debug/netcoreapp2.1/input.deps.json
+/home/conner/git/CSharp/hello-world/input/bin/Debug/netcoreapp2.1/input.runtimeconfig.json
+/home/conner/git/CSharp/hello-world/input/bin/Debug/netcoreapp2.1/input.runtimeconfig.dev.json
+/home/conner/git/CSharp/hello-world/input/bin/Debug/netcoreapp2.1/input.dll
+/home/conner/git/CSharp/hello-world/input/bin/Debug/netcoreapp2.1/input.pdb
+/home/conner/git/CSharp/hello-world/input/obj/Debug/netcoreapp2.1/input.csprojAssemblyReference.cache
+/home/conner/git/CSharp/hello-world/input/obj/Debug/netcoreapp2.1/input.csproj.CoreCompileInputs.cache
+/home/conner/git/CSharp/hello-world/input/obj/Debug/netcoreapp2.1/input.AssemblyInfoInputs.cache
+/home/conner/git/CSharp/hello-world/input/obj/Debug/netcoreapp2.1/input.AssemblyInfo.cs
+/home/conner/git/CSharp/hello-world/input/obj/Debug/netcoreapp2.1/input.dll
+/home/conner/git/CSharp/hello-world/input/obj/Debug/netcoreapp2.1/input.pdb
