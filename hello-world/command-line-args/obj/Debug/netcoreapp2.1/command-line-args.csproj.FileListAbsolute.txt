@@ -1,0 +1,11 @@
+/home/conner/git/CSharp/hello-world/command-line-args/bin/Debug/netcoreapp2.1/command-line-args.deps.json
+/home/conner/git/CSharp/hello-world/command-line-args/bin/Debug/netcoreapp2.1/command-line-args.runtimeconfig.json
+/home/conner/git/CSharp/hello-world/command-line-args/bin/Debug/netcoreapp2.1/command-line-args.runtimeconfig.dev.json
+/home/conner/git/CSharp/hello-world/command-line-args/bin/Debug/netcoreapp2.1/command-line-args.dll
+/home/conner/git/CSharp/hello-world/command-line-args/bin/Debug/netcoreapp2.1/command-line-args.pdb
+/home/conner/git/CSharp/hello-world/command-line-args/obj/Debug/netcoreapp2.1/command-line-args.csprojAssemblyReference.cache
+/home/conner/git/CSharp/hello-world/command-line-args/obj/Debug/netcoreapp2.1/command-line-args.csproj.CoreCompileInputs.cache
+/home/conner/git/CSharp/hello-world/command-line-args/obj/Debug/netcoreapp2.1/command-line-args.AssemblyInfoInputs.cache
+/home/conner/git/CSharp/hello-world/command-line-args/obj/Debug/netcoreapp2.1/command-line-args.AssemblyInfo.cs
+/home/conner/git/CSharp/hello-world/command-line-args/obj/Debug/netcoreapp2.1/command-line-args.dll
+/home/conner/git/CSharp/hello-world/command-line-args/obj/Debug/netcoreapp2.1/command-line-args.pdb
